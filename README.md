@@ -327,3 +327,8 @@ Contributions, suggestions, and bug reports are welcome.
 
 ---
 
+## 👤 Author
+**Ganesh Neupane**
+Computer Engineering | AI / ML
+- GitHub: [@GaneshNeupane01](https://github.com/GaneshNeupane01)
+- Detail: [@portfolio](https://ganesh-neupane.com.np)
