@@ -41,12 +41,9 @@ Sample screenshots from the app are included in the `sample/` folder:
 - `sample/demo_output_english_query.png` – Example English query and response
 - `sample/demo_output_nepali_query.png` – Example Nepali query and response
 
-You can embed them in your GitHub README view like this (optional):
-
-```markdown
 ![English Query Demo](sample/demo_output_english_query.png)
 ![Nepali Query Demo](sample/demo_output_nepali_query.png)
-```
+
 
 ---
 
