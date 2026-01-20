@@ -1,0 +1,12 @@
+streamlit
+langchain
+langchain-qdrant
+langchain-huggingface
+langchain-groq
+sentence-transformers
+qdrant-client
+fastembed
+torch
+docling
+python-dotenv
+
